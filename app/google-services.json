@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "198431338536",
+    "firebase_url": "https://projectoreserva.firebaseio.com",
+    "project_id": "projectoreserva",
+    "storage_bucket": "projectoreserva.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:198431338536:android:461d7ad710d98c14",
+        "android_client_info": {
+          "package_name": "com.example.olano.projectoreserva"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "198431338536-4ha7mdc4gc802mllro4eamipsqpl1mm5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.olano.projectoreserva",
+            "certificate_hash": "dc971f05b62e0caed1299b437e7136d51c564145"
+          }
+        },
+        {
+          "client_id": "198431338536-3sfst08b7lcimv7t35bna02u44qk8jkb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqgx84RGY3gbinRmkQU9mP8_zoZ-PCh7I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "198431338536-3sfst08b7lcimv7t35bna02u44qk8jkb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
